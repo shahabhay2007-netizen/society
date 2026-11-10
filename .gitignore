@@ -1,0 +1,6 @@
+# Compiled Java class files
+*.class
+
+# BlueJ context and temporary files
+*.ctxt
+.bluej/
